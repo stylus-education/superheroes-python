@@ -6,6 +6,15 @@ The `battle` function in `superheroes_python/main.py` takes a hero name, and a v
 
 The characters and their stats are stored in a json file stored in AWS S3 - https://s3.eu-west-2.amazonaws.com/build-circle/characters.json
 
+## Setup
+In order to run the project, you will need to install the following:
+- [Python ^3.9](https://www.python.org/downloads/)
+- [Poetry](https://python-poetry.org/docs/#installation)
+
+Once you have downloaded the repo, you can use the following commands:
+- Run `poetry install` to install dependencies.
+- The tests can be run with `poetry run pytest`
+
 ## Task
 
 Note: This tech test is deliberately loose. We're looking for your opinions and coding style.
