@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "superheroes-python"
+version = "0.1.0"
+description = ""
+authors = ["Alex Marriott <alex.marriott@buildcircle.co.uk>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pytest-mock = "^3.7.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
