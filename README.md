@@ -8,7 +8,7 @@ The characters and their stats are stored in a json file stored in AWS S3 - http
 
 ## Setup
 In order to run the project, you will need to install the following:
-- [Python ^3.9](https://www.python.org/downloads/)
+- [Python 3.9+](https://www.python.org/downloads/) (tested with Python 3.9-3.12)
 - [Poetry](https://python-poetry.org/docs/#installation)
 
 Once you have downloaded the repo, you can use the following commands:
