@@ -1,4 +1,4 @@
-# Build Circle Superheroes tech test
+# stylus Superheroes tech test
 
 Superheroes and Supervillains are always battling it out, but how do we know who wins? This repo contains a function that gives us that answer. 
 
@@ -19,7 +19,7 @@ Once you have downloaded the repo, you can use the following commands:
 
 Note: This tech test is deliberately loose. We're looking for your opinions and coding style.
 
-Above all, Build Circle value clear, well tested code.
+Above all, stylus value clear, well tested code.
 
 1. Familiarise yourself with the code. Feel free to point out any issues or opinions you have about it. No right answers here but hopefully will drive good discussion.
 
